@@ -1,2 +1,4 @@
 Collaboration Demo Project
 Version 1.0
+New feature: description added.
+New feature: adds a short description to clarify project capabilities.
